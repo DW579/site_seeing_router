@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DW579/site_seeing_router/issues"
   },
-  "homepage": "https://github.com/DW579/site_seeing_router#readme"
+  "homepage": "https://github.com/DW579/site_seeing_router#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
