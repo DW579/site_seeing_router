@@ -1,0 +1,19 @@
+{
+  "name": "site_seeing_router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DW579/site_seeing_router.git"
+  },
+  "author": "Dustin Wurtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DW579/site_seeing_router/issues"
+  },
+  "homepage": "https://github.com/DW579/site_seeing_router#readme"
+}
