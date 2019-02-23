@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DW579/site_seeing_router#readme",
   "dependencies": {
+    "clarifai": "^2.9.0",
     "express": "^4.16.4"
   }
 }
